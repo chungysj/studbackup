@@ -1,0 +1,24 @@
+{
+  "name": "studbackup",
+  "version": "1.0.0",
+  "description": "backup",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ychu8081-web/studbackup.git"
+  },
+  "keywords": [
+    "study",
+    "online",
+    "help"
+  ],
+  "author": "Jackie Chung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ychu8081-web/studbackup/issues"
+  },
+  "homepage": "https://github.com/ychu8081-web/studbackup#readme"
+}
